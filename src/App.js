@@ -1,7 +1,11 @@
+import Name from "./components/Name.js";
+import Portrait from "./components/Portrait.js";
+
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to dylan.hu</h1>
+      <Portrait />
+      <Name />
     </div>
   );
 }

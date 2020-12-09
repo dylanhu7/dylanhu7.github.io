@@ -10616,6 +10616,11 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
+typeface-lekton@^1.1.13:
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/typeface-lekton/-/typeface-lekton-1.1.13.tgz#69cfbc6504743ecc59291dbba7e0e617b9257031"
+  integrity sha512-RdMgd8sd8JO2dqgBm/xEqkIv2XpbJf/OCqKwi8Cyw9cwMzTj16ql5U2xvZezO5JSV7tq8Osrv+O8hVM1g2WzrQ==
+
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/unicode-canonical-property-names-ecmascript/-/unicode-canonical-property-names-ecmascript-1.0.4.tgz#2619800c4c825800efdd8343af7dd9933cbe2818"

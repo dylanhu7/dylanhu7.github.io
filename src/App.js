@@ -4,8 +4,10 @@ import Portrait from "./components/Portrait.js";
 function App() {
   return (
     <div className="App">
-      <Portrait />
-      <Name />
+      <div className="Header">
+        <Portrait />
+        <Name />
+      </div>
     </div>
   );
 }

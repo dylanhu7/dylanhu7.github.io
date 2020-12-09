@@ -4,6 +4,10 @@
   font-size: 11px;
 }
 
+.Header {
+  display: flex;
+}
+
 #name {
   padding: 2rem;
   font-family: "lekton";
@@ -14,6 +18,6 @@
 #portrait {
   padding: 2rem;
   border-radius: 3rem;
-  width: 25%;
-  height: auto;
+  width: 20%;
+  height: 20%;
 }
